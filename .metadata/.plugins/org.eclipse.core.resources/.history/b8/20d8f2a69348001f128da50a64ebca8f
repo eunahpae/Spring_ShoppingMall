@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Root Context: 모든 웹 구성 요소에서 공유하는 공통 리소스 정의 -->
+
+	<!-- HikariCP 설정 -->
+	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
+		<!-- JDBC 드라이버 클래스명 설정 -->
+		<property name="driverClassName"
+			value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy" />
+		<!-- 데이터베이스 접속 URL 설정 -->
+		<property name="jdbcUrl"
+			value="jdbc:log4jdbc:oracle:thin:@localhost:1521:XE" />
+		<!-- 데이터베이스 접속 계정 정보 설정 -->
+		<property name="username" value="spring" />
+		<property name="password" value="1234" />
+	</bean>
+
+</beans>

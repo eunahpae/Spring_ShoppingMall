@@ -1,0 +1,5 @@
+package com.spring.project.mapper;
+
+public interface TimeMapper {
+
+}

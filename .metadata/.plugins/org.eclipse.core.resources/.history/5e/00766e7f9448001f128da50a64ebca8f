@@ -1,0 +1,13 @@
+package com.spring.project.persistence;
+
+public class JDBCTest {
+	
+	static {
+	try {
+		
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+	}
+
+}
