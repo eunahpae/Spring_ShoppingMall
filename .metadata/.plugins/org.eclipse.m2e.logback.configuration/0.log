@@ -1188,3 +1188,139 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-07-23 16:07:36,710 [Worker-175: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
 2024-07-23 16:07:36,710 [Worker-175: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
 2024-07-23 16:07:36,712 [Worker-175: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 08:43:12,223 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 09:56:36,888 [Worker-35: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 09:56:36,895 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 09:56:36,901 [Worker-35: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 09:56:36,902 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:01:40,850 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-24 10:01:41,222 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lib:controller:1.0.0-BUILD-SNAPSHOT @ D:\spring_project\Shopping\pom.xml.
+2024-07-24 10:01:41,975 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shopping/src/main/java
+2024-07-24 10:01:41,975 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shopping/src/main/resources
+2024-07-24 10:01:41,975 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shopping/src/test/java
+2024-07-24 10:01:41,976 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shopping/src/test/resources
+2024-07-24 10:01:42,575 [Worker-36: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:01:42,577 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-07-24 10:01:45,354 [Worker-40: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:01:45,356 [Worker-40: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:01:45,368 [Worker-40: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:01:45,369 [Worker-40: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:01:45,371 [Worker-40: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:01:45,372 [Worker-40: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:01:45,376 [Worker-40: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:06:17,953 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-24 10:06:18,118 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lib:controller:1.0.0-BUILD-SNAPSHOT @ D:\spring_project\Shopping\pom.xml.
+2024-07-24 10:06:18,576 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shopping/src/main/java
+2024-07-24 10:06:18,576 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shopping/src/main/resources
+2024-07-24 10:06:18,576 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shopping/src/test/java
+2024-07-24 10:06:18,577 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shopping/src/test/resources
+2024-07-24 10:06:18,689 [Worker-39: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:06:18,691 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-07-24 10:06:25,174 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:06:25,175 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:06:25,186 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:06:25,187 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:06:25,189 [Worker-50: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:06:25,189 [Worker-50: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:06:25,192 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:13:37,116 [Worker-53: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:13:37,263 [Worker-49: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:13:37,264 [Worker-49: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:13:37,270 [Worker-49: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:13:37,271 [Worker-49: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:13:37,273 [Worker-49: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:13:37,273 [Worker-49: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:13:37,283 [Worker-49: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:16:14,367 [Worker-62: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:16:14,483 [Worker-60: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:16:14,484 [Worker-60: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:16:14,489 [Worker-60: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:16:14,490 [Worker-60: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:16:14,491 [Worker-60: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:16:14,492 [Worker-60: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:16:14,494 [Worker-60: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:40:10,852 [Worker-72: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:40:10,981 [Worker-74: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:40:10,982 [Worker-74: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:40:10,990 [Worker-74: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:40:10,990 [Worker-74: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:40:10,992 [Worker-74: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:40:10,992 [Worker-74: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:40:11,005 [Worker-74: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:45:32,636 [Worker-78: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:45:32,751 [Worker-52: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:45:32,752 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:45:32,756 [Worker-52: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:45:32,757 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:45:32,758 [Worker-52: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:45:32,758 [Worker-52: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:45:32,766 [Worker-52: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:47:40,828 [Worker-79: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:47:40,932 [Worker-78: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:47:40,933 [Worker-78: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:47:40,938 [Worker-78: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:47:40,939 [Worker-78: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:47:40,940 [Worker-78: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:47:40,940 [Worker-78: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:47:40,942 [Worker-78: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:56:38,768 [Worker-88: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 10:56:38,886 [Worker-87: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:56:38,887 [Worker-87: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 10:56:38,891 [Worker-87: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 10:56:38,892 [Worker-87: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 10:56:38,894 [Worker-87: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 10:56:38,894 [Worker-87: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 10:56:38,896 [Worker-87: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:27:08,233 [Worker-102: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:27:08,247 [Worker-102: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 11:27:08,251 [Worker-102: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:27:08,251 [Worker-102: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:28:41,813 [Worker-105: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:28:41,814 [Worker-105: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:28:41,816 [Worker-105: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:28:41,816 [Worker-105: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 11:29:29,666 [Worker-105: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:29:29,667 [Worker-105: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-24 11:29:29,668 [Worker-105: Launching MemberMapprTests] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:29:29,668 [Worker-105: Launching MemberMapprTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:50:51,679 [Worker-110: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 11:50:51,805 [Worker-104: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:50:51,806 [Worker-104: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 11:50:51,811 [Worker-104: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:50:51,811 [Worker-104: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:50:51,812 [Worker-104: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 11:50:51,813 [Worker-104: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 11:50:51,818 [Worker-104: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:52:51,866 [Worker-116: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 11:52:51,978 [Worker-111: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:52:51,979 [Worker-111: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 11:52:51,984 [Worker-111: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:52:51,985 [Worker-111: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:52:51,986 [Worker-111: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 11:52:51,986 [Worker-111: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 11:52:51,988 [Worker-111: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:56:40,447 [Worker-119: Launching Executing clean in D__spring_project_Shopping] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\spring_project\Shopping
+2024-07-24 11:56:40,449 [Worker-119: Launching Executing clean in D__spring_project_Shopping] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2024-07-24 11:56:46,859 [Worker-118: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:56:46,860 [Worker-118: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 11:56:46,864 [Worker-118: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 11:56:46,865 [Worker-118: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 11:56:46,866 [Worker-118: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 11:56:46,866 [Worker-118: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 11:56:46,873 [Worker-118: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:03:23,661 [Worker-122: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 12:03:23,774 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:03:23,775 [Worker-120: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 12:03:23,780 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:03:23,780 [Worker-120: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 12:03:23,782 [Worker-120: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 12:03:23,782 [Worker-120: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 12:03:23,784 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:23:39,829 [Worker-133: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shopping
+2024-07-24 12:23:39,939 [Worker-129: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:23:39,939 [Worker-129: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-07-24 12:23:39,944 [Worker-129: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-24 12:23:39,945 [Worker-129: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-24 12:23:39,946 [Worker-129: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shopping
+2024-07-24 12:23:39,946 [Worker-129: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shopping
+2024-07-24 12:23:39,948 [Worker-129: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!

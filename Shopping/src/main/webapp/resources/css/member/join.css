@@ -161,12 +161,12 @@
 	float: left;
 }
 
-#mail_check_input_box_false{
-    background-color:#ebebe4;
+#mail_check_input_box_false {
+	background-color: #ebebe4;
 }
- 
-#mail_check_input_box_true{
-    background-color:white;
+
+#mail_check_input_box_true {
+	background-color: white;
 }
 
 .mail_check_input {
@@ -187,6 +187,14 @@
 	font-weight: 900;
 	background-color: #ececf7;
 	cursor: pointer;
+}
+
+.correct {
+	color: green;
+}
+
+.incorrect {
+	color: red;
 }
 
 /* 주소 영역 */
@@ -277,6 +285,42 @@
 	color: white;
 }
 
+/* 유효성 검사 문구 */
+.final_id_ck {
+	display: none;
+}
+
+.final_pw_ck {
+	display: none;
+}
+
+.final_pwck_ck {
+	display: none;
+}
+
+.final_name_ck {
+	display: none;
+}
+
+.final_mail_ck {
+	display: none;
+}
+
+.final_addr_ck {
+	display: none;
+}
+
+/* 비밀번호 확인 일치 유효성검사 */
+.pwck_input_re_1 {
+	color: green;
+	display: none;
+}
+
+.pwck_input_re_2 {
+	color: red;
+	display: none;
+}
+
 /* float 속성 해제 */
 .clearfix {
 	clear: both;
@@ -292,4 +336,3 @@
 	color: red;
 	display: none;
 }
-

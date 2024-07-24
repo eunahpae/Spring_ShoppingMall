@@ -26,13 +26,22 @@
     <fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringJUnit4ClassRunner"/>
     <fullyQualifiedTypeName name="org.springframework.test.context.ContextConfiguration"/>
     <fullyQualifiedTypeName name="com.shopping.mapper.MemberMapprTests"/>
-    <fullyQualifiedTypeName name="org.junit.Test"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sun.security.util.UntrustedCertificates"/>
     <fullyQualifiedTypeName name="com.shopping.mapper.MemberMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.shopping.service.MemberService"/>
-    <fullyQualifiedTypeName name="com.shopping.model.MemberVO"/>
+    <fullyQualifiedTypeName name="org.springframework.mail.javamail.JavaMailSender"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.MimeMessage"/>
+    <fullyQualifiedTypeName name="org.springframework.mail.javamail.MimeMessageHelper"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="com.shopping.model.MemberVO"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
 </qualifiedTypeNameHistroy>
